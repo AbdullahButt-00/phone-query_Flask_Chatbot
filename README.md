@@ -12,7 +12,7 @@
 - pip install scikit-learn
 
 Commands to run the ChatBot folder after opening command prompt terminal(cmd):
-.venv\Scripts\activate
- py -m flask run --debug
+- .venv\Scripts\activate
+- py -m flask run --debug
 
 
